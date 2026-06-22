@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Cristina-Calle/Cristina-Calle/blob/main/presentacion.png" width="100%">
+  <img src="https://github.com/Cristina-Calle/Cristina-Calle/blob/main/presentacion.png" width="80%">
 </p>
 
 # 👋 Hola, soy Cristina Calle
