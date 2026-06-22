@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Cristina-Calle/Cristina-Calle/blob/main/presentación.png" width="100%">
+</p>
+
 # 👋 Hola, soy Cristina Calle
 
 ## Junior IT Support | Microsoft 365 | Azure | AI 
