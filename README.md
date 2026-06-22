@@ -105,13 +105,17 @@ https://github.com/Cristina-Calle/laboratorio-empresarial-asir
 ---
 ## 🛠️ Tecnologías
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Categoría                      | Tecnologías                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sistemas Operativos**        | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square\&logo=windows\&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square\&logo=windows11\&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)                            |
+| **Administración de Sistemas** | ![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=flat-square\&logo=microsoft\&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square\&logo=microsoft\&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square\&logo=powershell\&logoColor=white) |
+| **Cloud**                      | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square\&logo=microsoftazure\&logoColor=white) ![Azure AI](https://img.shields.io/badge/Azure%20AI-412991?style=flat-square\&logo=microsoft\&logoColor=white)                                                                                                                                    |
+| **Bases de Datos**             | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)                                                                                                                                                                 |
+| **Redes**                      | ![DNS](https://img.shields.io/badge/DNS-00599C?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-009688?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1976D2?style=flat-square)                                                                                                                                                           |
+| **Seguridad y Diagnóstico**    | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)                                                                                                                                                                                        |
+| **Virtualización**             | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square\&logo=virtualbox\&logoColor=white)                                                                                                                                                                                                                                                         |
+| **Desarrollo**                 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)                                                                     |
+
 
 ## 📊 Estadísticas de GitHub
 
